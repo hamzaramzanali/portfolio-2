@@ -1,0 +1,16 @@
+.headerNav-container {
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: red;
+    text-align: center;
+}
+
+.nav-tabs {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    align-items: right;
+    justify-content: space-around;
+}

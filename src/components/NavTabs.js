@@ -1,9 +1,10 @@
 import React from 'react';
 import Header from './Header';
+import './css/Header.css'
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <div className="jumbotron-fluid"> 
+    <div className="headerNav-container"> 
     <Header/>
     <ul className="nav nav-tabs">
       <li className="nav-item">
