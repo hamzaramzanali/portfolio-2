@@ -1,19 +1,17 @@
 import React from 'react';
+import './css/style.css'
 
-// const styles ={
-//   header: {
-//     background: '#ff0000'
-//   },
-//   h1: {
-//     color: '#ffffff'
-//   }
-// }
+const styles ={
+  header: {
+    background: 'lightblue'
+  },
+}
 
 function Header() {
 
   return (
-    <header className="header">
-      <h1>Hamza Ramzanali</h1>
+    <header className="header" style={styles.header}>
+      <h1 className='headerName'>Hamza Ramzanali</h1>
     </header>
   );
 }
