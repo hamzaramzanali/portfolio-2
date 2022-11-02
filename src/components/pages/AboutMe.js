@@ -18,7 +18,7 @@ const styles = {
   }
 }
 
-export default function Home() {
+export default function AboutMe() {
   return (
     <div className='homePg-header' style={styles.homePgHeader}>
       <h2 style={styles.h2}>About Me</h2>
