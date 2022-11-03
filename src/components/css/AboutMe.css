@@ -13,7 +13,22 @@
 
 .uicIMG {
     width: 25%;
+    height: auto;
     background-color: #BDDBD0;
+}
+
+.meIMG {
+    width: 50%;
+}
+
+.imgCard {
+    background-color: #CBD0B9;
+}
+
+.meImgContainer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
 }
 
 .imgContainer {

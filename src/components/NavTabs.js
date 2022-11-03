@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './Header';
 import './css/Header.css'
+import './css/style.css'
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (

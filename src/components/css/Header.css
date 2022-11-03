@@ -1,10 +1,13 @@
 .headerNav-container {
     background-color: black;
+    display: block;
 }
 
 .headerName {
     background-color: black;
     color: #cbd0b9;
+    display: flex;
+    align-items: center;
 }
 
 .nav-tabs {
@@ -15,8 +18,4 @@
 
 .nav-item {
     background-color: black;
-}
-
-a {
-    color: greenyellow
 }

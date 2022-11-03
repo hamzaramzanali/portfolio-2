@@ -3,6 +3,7 @@ import React from 'react';
 import '../css/AboutMe.css'
 import NWimg from '../../assets/NWimg.png'
 import UICimg from '../../assets/UICimg.svg.png'
+import Me from '../../assets/me.jpeg'
 
 const styles = {
   homePgHeader: {
@@ -32,14 +33,21 @@ export default function AboutMe() {
         <h2 style={styles.h2}>About Me</h2>
       </div>
       <div className="container">
+      <div className="card col imgCard" styles={styles.card}>
+          <div className="card-img">
+            <div className='meImgContainer'>
+              <img src={Me} alt="educationImg" className='meIMG'></img>
+            </div>
+          </div>
+        </div>
         <div className="card col" styles={styles.card}>
           <div className="card-body">
             <h5 className="card-title">Education</h5>
+            <p className="card-text">I am currently a student at the Northwestern Full-Stack Web Development Bootcamp. Previously, I graduated from UIC with a degree in Integrated Health Studies with a concentration in Health Sciences. I graduated in December 2021.</p>
             <div className='imgContainer'>
               <img src={UICimg} alt="educationImg" className='uicIMG'></img>
               <img src={NWimg} alt="educationImg" className='nwIMG'></img>
             </div>
-            <p className="card-text">I am currently a student at the Northwestern Full-Stack Web Development Bootcamp. Previously, I graduated from UIC with a degree in Integrated Health Studies with a concentration in Health Sciences. I graduated in December 2021.</p>
           </div>
         </div>
         <div className="card col">
