@@ -10,3 +10,15 @@
 .card-text {
     background-color: #BDDBD0;
 }
+
+.uicIMG {
+    width: 25%;
+    background-color: #BDDBD0;
+}
+
+.imgContainer {
+    display: flex;
+    justify-content: space-around;
+    background-color: #BDDBD0;
+    margin-bottom: 25;
+}
