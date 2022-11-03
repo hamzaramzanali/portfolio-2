@@ -1,20 +1,24 @@
 
 .card-body {
-    background-color: #BDDBD0;
+    background-color: black;
+    color: #CBD0B9;
 }
 
 .card-title {
-    background-color: #BDDBD0;
+    background-color: black;
+    color: #CBD0B9;
 }
 
 .card-text {
-    background-color: #BDDBD0;
+    background-color: black;
+    color: #CBD0B9;
 }
 
 .uicIMG {
     width: 25%;
     height: auto;
-    background-color: #BDDBD0;
+    background-color: black;
+    color: #CBD0B9;
 }
 
 .meIMG {
@@ -22,18 +26,18 @@
 }
 
 .imgCard {
-    background-color: #CBD0B9;
+    background-color: black;
 }
 
 .meImgContainer {
     display: flex;
     justify-content: center;
-    margin-bottom: 10px;
+    background-color: black;
 }
 
 .imgContainer {
     display: flex;
     justify-content: space-around;
-    background-color: #BDDBD0;
+    background-color: black;
     margin-bottom: 25;
 }

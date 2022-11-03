@@ -1,0 +1,32 @@
+.passwordGeneratorImg {
+    width: 75%;
+    margin-left: 50px;
+    background-color: black;
+}
+
+.portfolio-img-container {
+    background-color: black;
+    margin: 20px;
+}
+
+.caption {
+    background-color: black;
+    color: #CBD0B9;
+    margin-left: 50px;
+}
+
+.portfolioPgContainer {
+    display: flex;
+    margin-top: 20px;
+}
+
+.link {
+    background-color: black;
+}
+
+.weatherImg {
+    width: 85%;
+    margin-left: 50px;
+    background-color: black;
+    margin-top: 10px;
+}
