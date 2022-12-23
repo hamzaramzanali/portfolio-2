@@ -14,6 +14,9 @@ function Footer() {
       <div>
       <a href="https://www.linkedin.com/in/hamza-ramzanali-958bb3254/">LinkedIn</a>
       </div>
+      <div>
+      <a href="mailto:hamzaramzanali1@gmail.com">Email</a>
+      </div>
     </footer>
   );
 }
