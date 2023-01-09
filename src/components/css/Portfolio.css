@@ -1,6 +1,6 @@
 .passwordGeneratorImg {
-    width: 75%;
-    margin-left: 50px;
+    width: 80%;
+    margin-left: 12%;
     background-color: black;
 }
 
@@ -12,7 +12,13 @@
 .caption {
     background-color: black;
     color: #CBD0B9;
-    margin-left: 50px;
+    margin-left: 12%;
+}
+
+.caption2{
+    background-color: black;
+    color: #CBD0B9;
+    margin-left: 8%;
 }
 
 .portfolioPgContainer {
@@ -26,7 +32,19 @@
 
 .weatherImg {
     width: 85%;
-    margin-left: 50px;
+    margin-left: 8%;
     background-color: black;
     margin-top: 10px;
+}
+
+.project-code-btn {
+    display: flex;
+    justify-content: center;
+    margin-left: 12%;
+}
+
+.project-code-btn2 {
+    display: flex;
+    justify-content: center;
+    margin-left: 8%;
 }

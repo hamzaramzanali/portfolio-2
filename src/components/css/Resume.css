@@ -1,0 +1,27 @@
+.card-resume-pg {
+    width: 85%;
+    margin-right: 7.5%;
+    margin-left: 7.5%;
+}
+
+.card-resume-pg2 {
+    width: 85%;
+    margin-right: 7.5%;
+    margin-left: 7.5%;
+    margin-top: 2%;
+}
+
+.card-body {
+    background-color: black;
+    color: #CBD0B9;
+}
+
+.card-title {
+    background-color: black;
+    color: #CBD0B9;
+}
+
+.card-text {
+    background-color: black;
+    color: #CBD0B9;
+}
