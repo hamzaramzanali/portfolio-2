@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/portfolio-2/static/css/main.a8bfdf69.css",
-    "main.js": "/portfolio-2/static/js/main.887dbcd8.js",
+    "main.js": "/portfolio-2/static/js/main.c65e7ff6.js",
     "static/media/project1.png": "/portfolio-2/static/media/project1.03dbed5bca809c09a644.png",
     "static/media/portfolio1.png": "/portfolio-2/static/media/portfolio1.ae1e79521cc2f01b127c.png",
     "static/media/teamSpeak.png": "/portfolio-2/static/media/teamSpeak.57e9db3ac5ceec3fbc15.png",
     "static/media/me.jpeg": "/portfolio-2/static/media/me.933793b42401bf6ba309.jpeg",
     "static/media/weatherDashboard.png": "/portfolio-2/static/media/weatherDashboard.c0102bd6d0e1c707a610.png",
     "static/media/noteTaker.png": "/portfolio-2/static/media/noteTaker.c25aa7c0999f923a0818.png",
+    "static/media/New Resume Hamza Ramzanali.docx.pdf": "/portfolio-2/static/media/New Resume Hamza Ramzanali.docx.1305c6a30d97869b3ac0.pdf",
     "static/media/passwordGenerator.png": "/portfolio-2/static/media/passwordGenerator.16a0a78b7d1bdfea2149.png",
     "static/media/UICimg.svg.png": "/portfolio-2/static/media/UICimg.svg.1942d4f4dbdc5465d4fc.png",
     "static/media/NWimg.png": "/portfolio-2/static/media/NWimg.b2986fc83fbd267a6d37.png",
     "index.html": "/portfolio-2/index.html",
     "main.a8bfdf69.css.map": "/portfolio-2/static/css/main.a8bfdf69.css.map",
-    "main.887dbcd8.js.map": "/portfolio-2/static/js/main.887dbcd8.js.map"
+    "main.c65e7ff6.js.map": "/portfolio-2/static/js/main.c65e7ff6.js.map"
   },
   "entrypoints": [
     "static/css/main.a8bfdf69.css",
-    "static/js/main.887dbcd8.js"
+    "static/js/main.c65e7ff6.js"
   ]
 }
