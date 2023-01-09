@@ -10,7 +10,6 @@
     "axios": "^1.1.3",
     "bootstrap": "^5.2.2",
     "emailjs": "^4.0.1",
-    "gh-pages": "^4.0.0",
     "pretty": "^2.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -43,5 +42,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://hamzaramzanali.github.io/portfolio-2"
+  "homepage": "https://hamzaramzanali.github.io/portfolio-2",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
