@@ -5,7 +5,7 @@ import Portfolio from '../../assets/portfolio1.png'
 import Weather from '../../assets/weatherDashboard.png'
 import ArtApi from '../../assets/project1.png'
 import NoteTaker from '../../assets/noteTaker.png'
-import TeamSpeak from '../../assets/teamSpeak.png'
+import Marvel from '../../assets/marvel.png'
 
 export default function Blog() {
   return (
@@ -82,11 +82,11 @@ export default function Blog() {
         </div>
         <div className="card col-md-6 portofolio-img-container">
           <div className="card-body">
-            <a href='https://teamspeak-org.herokuapp.com/' className='link'>
-              <img src={TeamSpeak} alt="Team Speak" className='weatherImg'></img>
+            <a href='https://stark-sierra-05669.herokuapp.com/' className='link'>
+              <img src={Marvel} alt="Team Speak" className='weatherImg'></img>
             </a>
-            <p className='caption2'>TeamSpeak</p>
-            <a href="https://github.com/park-d/team-speak">
+            <p className='caption2'>Marvel Fan Fiction</p>
+            <a href="https://github.com/hamzaramzanali/fan-fiction">
             <button className='project-code-btn2'>
                 Code
               </button>
